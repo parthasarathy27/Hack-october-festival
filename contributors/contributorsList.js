@@ -1,5 +1,10 @@
 contributors = [
   {
+    id: "1",
+    fullname: "Parthasarathy",
+    username: "https://github.com/parthasarathy27",
+  },
+  {
     id: "2",
     fullname: "Anshika Agarwal",
     username: "https://github.com/anshika361",
@@ -10,8 +15,8 @@ contributors = [
     username: "https://github.com/Nicknack03",
   },
   {
-    id: 1,
-    fullname: "Parthasarathy",
-    username: "https://github.com/parthasarathy27",
+    id: "4",
+    fullname: "Madhesh V",
+    username: "https://github.com/madhesh-v",
   },
 ];
